@@ -1,16 +1,27 @@
-## Hi there 👋
+## Giovani Ribeiro Brisola
 
-<!--
-**G1chesss/G1chesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contador com 9 anos em Fiscal, Contábil e Controladoria, hoje construindo carreira em Dados.
+Cursando Data Science na FIAP (2º ano). Certificado ANBIMA CPA-20 (C-Pro R).
 
-Here are some ideas to get you started:
+Trabalho na fronteira entre **legislação tributária e engenharia de dados**: automatizo
+rotinas fiscais em Python, modelo bases contábeis e transformo apuração de tributos em
+indicadores de decisão para uma carteira de 50 empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python (Pandas, NumPy, openpyxl) · SQL / PL-SQL (Oracle) · Power BI (DAX, Power Query) · Streamlit · Git
+
+**Domínio:** SPED Fiscal · EFD Contribuições · DCTFWeb · Simples Nacional · Lucro Presumido · Reforma Tributária (IBS/CBS) · NCM/CST/CFOP
+
+### Projetos
+
+| Projeto | O que é |
+|---|---|
+| [NeuroFlow](https://github.com/G1chesss/GS-NeuroFlow-FIAP) | 🏆 1º lugar no Global Solution FIAP — desenho de solução de IA/NLP para inclusão de profissionais neurodivergentes |
+| [Melhores Compras](https://github.com/G1chesss/Melhorescompras) | Challenge FIAP — automação em Python e modelagem de dados Oracle para varejo |
+
+### Em construção
+
+Motor de limpeza e consolidação de livros fiscais em Python — versão com dados sintéticos, em preparação para publicação.
+
+---
+
+📫 giovani.ribeiro@outlook.com · [LinkedIn](https://www.linkedin.com/in/giovani-ribeiro-/)
