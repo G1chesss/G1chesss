@@ -1,6 +1,6 @@
-## Giovani Ribeiro Brisola
+## Giovani Ribeiro
 
-Contador com 9 anos em Fiscal, Contábil e Controladoria, hoje construindo carreira em Dados.
+Contador com 10 anos em Fiscal, Contábil e Controladoria, hoje construindo carreira em Dados.
 Cursando Data Science na FIAP (2º ano). Certificado ANBIMA CPA-20 (C-Pro R).
 
 Trabalho na fronteira entre **legislação tributária e engenharia de dados**: automatizo
