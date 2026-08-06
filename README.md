@@ -24,4 +24,4 @@ Motor de limpeza e consolidação de livros fiscais em Python — versão com da
 
 ---
 
-📫 giovani.ribeiro@outlook.com · [LinkedIn](https://www.linkedin.com/in/giovani-ribeiro-/)
+📫 giovani.trabalhos@gmail.com · [LinkedIn](https://www.linkedin.com/in/giovani-ribeiro-/)
